@@ -2,6 +2,8 @@
 
 A modern, full-featured AI chat application built with Next.js, Supabase for authentication, and Google Gemini AI for intelligent conversations.
 
+🚀 **[Quick Deploy to Vercel →](DEPLOYMENT.md)**
+
 ## Features
 
 - 🔐 **Secure Authentication**: User signup/login with Supabase
