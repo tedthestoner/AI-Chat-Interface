@@ -9,6 +9,9 @@ import { MessageSquare, User, LogOut, Plus, Clock, TrendingUp, Trash2 } from 'lu
 import Link from 'next/link'
 import { toast } from 'sonner'
 
+export const dynamic = 'force-dynamic'
+export const fetchCache = 'force-no-store'
+
 interface Conversation {
   id: string
   title: string
